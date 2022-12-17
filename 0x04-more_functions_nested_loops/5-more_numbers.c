@@ -2,7 +2,7 @@
 
 /**
  * more_numbers - nmbr fct
- * Bwave ICT file
+ * Vick Code file
  * Return: no return
  */
 
